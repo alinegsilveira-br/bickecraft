@@ -1,0 +1,11 @@
+img {
+  max-width: 100%;
+  display: block;
+}
+div {
+  width: 300px;
+}
+
+body {
+  margin: 0px;
+}
